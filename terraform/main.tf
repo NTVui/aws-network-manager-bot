@@ -1,0 +1,1 @@
+# Định nghĩa AWS Provider và version

@@ -1,0 +1,1 @@
+# Các biến linh hoạt (như Region us-east-1, CIDR block)

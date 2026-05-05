@@ -1,0 +1,5 @@
+boto3
+streamlit
+langchain-groq
+langgraph
+python-dotenv
